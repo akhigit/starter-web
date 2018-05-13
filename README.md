@@ -18,6 +18,10 @@ for Git training demos.
 This is a simple web project, deployment can be on any web server
 or even local file system.
 
+## How To Contribute
+
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 
 2014 Git. Training
